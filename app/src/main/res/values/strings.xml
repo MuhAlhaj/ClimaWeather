@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ClimaWeather</string>
+    <string name="locationTvString">Fetching Location</string>
+    <string name="change_city_description">Click Here to Change City</string>
+    <string name="weatherDescription">This is weather description</string>
+    <string name="temptv_text">N/A</string>
+    <string name="back_button_description">Dismiss Change City</string>
+    <string name="default_query">Enter city name</string>
+    <string name="get_weather">Change City</string>
+</resources>
